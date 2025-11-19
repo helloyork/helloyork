@@ -20,4 +20,4 @@ Hello, I am Nomen (helloyork). I am a full-stack developer specializing in front
 - [NarraLeaf Project](https://github.com/NarraLeaf)
 
 
-<a href="https://gitroll.io/profile/ubjAkQnjWoPfpPWnsVfAjyitlsTv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubjAkQnjWoPfpPWnsVfAjyitlsTv1?theme=midnight" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/ubjAkQnjWoPfpPWnsVfAjyitlsTv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ubjAkQnjWoPfpPWnsVfAjyitlsTv1?theme=dark" alt="GitRoll Profile Badge"/></a>
