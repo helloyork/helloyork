@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+<title id="title">Character profile — Nomen</title>
+<desc id="desc">Name: Nomen. Alias: helloyork. Class: Full-Stack Developer. Specialties: front-end, Node.js libraries, serverless. Main quest: the NarraLeaf Project. Side quest: learning Rust and Tauri.</desc>
+<style>.tw{animation:tw 4s ease-in-out infinite alternate}@keyframes tw{from{opacity:.15}to{opacity:1}}.ring{transform-box:fill-box;transform-origin:center;animation:rot 40s linear infinite}@keyframes rot{to{transform:rotate(360deg)}}.orbit{transform-origin:218px 212px;animation:rot 22s linear infinite}.exp{animation:exp 9s ease-in-out infinite}@keyframes exp{0%{transform:scaleX(.02)}80%,92%{transform:scaleX(1)}100%{transform:scaleX(.02)}}.exp{transform-box:fill-box;transform-origin:left center}.pulse{animation:pulse 1.8s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171a40"/><stop offset="1" stop-color="#22173f"/></linearGradient><radialGradient id="crest" cx=".35" cy=".3" r=".85"><stop offset="0" stop-color="#b9a2ff"/><stop offset=".55" stop-color="#6f52d6"/><stop offset="1" stop-color="#c25b8a"/></radialGradient><linearGradient id="night" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0e29"/><stop offset=".6" stop-color="#2a1c55"/><stop offset="1" stop-color="#7a3a72"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e8799d"/><stop offset="1" stop-color="#f2cc8f"/></linearGradient><clipPath id="pf"><rect x="48" y="48" width="340" height="384" rx="16"/></clipPath></defs>
+<rect x="20" y="20" width="1160" height="440" rx="20" fill="url(#panel)" stroke="#f2cc8f" stroke-opacity=".45" stroke-width="2"/>
+<g clip-path="url(#pf)">
+<rect x="48" y="48" width="340" height="384" fill="url(#night)"/>
+<circle cx="202.6" cy="192.6" r="1.3" fill="#fff" opacity="0.60"/>
+<circle cx="117.5" cy="252.2" r="1.3" fill="#fff" opacity="0.70"/>
+<circle cx="86.5" cy="130.0" r="0.7" fill="#fff" opacity="0.65"/>
+<circle cx="261.6" cy="201.3" r="1.3" fill="#fff" opacity="0.88"/>
+<circle cx="255.4" cy="94.4" r="0.7" fill="#fff" opacity="0.81" class="tw" style="animation-duration:2.6s;animation-delay:-5.3s"/>
+<circle cx="250.3" cy="245.9" r="1.1" fill="#fff" opacity="0.59"/>
+<circle cx="224.2" cy="212.2" r="1.3" fill="#fff" opacity="0.35" class="tw" style="animation-duration:4.8s;animation-delay:-2.4s"/>
+<circle cx="234.6" cy="283.3" r="0.7" fill="#fff" opacity="0.74" class="tw" style="animation-duration:3.3s;animation-delay:-1.7s"/>
+<circle cx="78.8" cy="243.0" r="1.3" fill="#fff" opacity="0.41" class="tw" style="animation-duration:2.7s;animation-delay:-0.1s"/>
+<circle cx="277.9" cy="108.1" r="0.7" fill="#fff" opacity="0.61"/>
+<circle cx="184.8" cy="73.8" r="2.0" fill="#fff" opacity="0.46"/>
+<circle cx="165.2" cy="131.9" r="0.7" fill="#fff" opacity="0.88"/>
+<circle cx="94.2" cy="116.1" r="0.7" fill="#fff" opacity="0.36" class="tw" style="animation-duration:4.2s;animation-delay:-4.1s"/>
+<circle cx="117.0" cy="180.2" r="2.0" fill="#fff" opacity="0.77" class="tw" style="animation-duration:3.8s;animation-delay:-2.4s"/>
+<circle cx="376.8" cy="56.1" r="1.6" fill="#fff" opacity="0.52"/>
+<circle cx="124.3" cy="152.2" r="1.6" fill="#fff" opacity="0.70" class="tw" style="animation-duration:6.0s;animation-delay:-1.3s"/>
+<circle cx="139.7" cy="244.5" r="1.1" fill="#fff" opacity="0.81" class="tw" style="animation-duration:2.8s;animation-delay:-1.3s"/>
+<circle cx="262.3" cy="59.8" r="1.1" fill="#fff" opacity="0.55" class="tw" style="animation-duration:5.9s;animation-delay:-2.9s"/>
+<circle cx="242.2" cy="267.4" r="0.9" fill="#fff" opacity="0.69" class="tw" style="animation-duration:3.3s;animation-delay:-3.7s"/>
+<circle cx="291.0" cy="94.7" r="2.0" fill="#fff" opacity="0.87" class="tw" style="animation-duration:5.8s;animation-delay:-5.3s"/>
+<circle cx="251.5" cy="158.8" r="0.7" fill="#fff" opacity="0.41" class="tw" style="animation-duration:3.4s;animation-delay:-4.4s"/>
+<circle cx="182.9" cy="158.7" r="1.6" fill="#fff" opacity="0.62" class="tw" style="animation-duration:5.8s;animation-delay:-5.9s"/>
+<circle cx="97.0" cy="172.9" r="2.0" fill="#fff" opacity="0.82"/>
+<circle cx="146.8" cy="279.8" r="0.9" fill="#fff" opacity="0.76" class="tw" style="animation-duration:3.9s;animation-delay:-1.5s"/>
+<circle cx="71.1" cy="124.8" r="1.6" fill="#fff" opacity="0.66" class="tw" style="animation-duration:3.8s;animation-delay:-5.3s"/>
+<circle cx="373.7" cy="216.3" r="2.0" fill="#fff" opacity="0.64"/>
+<path d="M48,392 Q130,360 220,384 T388,372 V432 H48 Z" fill="#160f33"/>
+<path d="M48,412 Q160,396 260,414 T388,408 V432 H48 Z" fill="#0d0a24"/>
+</g>
+<rect x="48" y="48" width="340" height="384" rx="16" fill="none" stroke="#f2cc8f" stroke-opacity=".5"/>
+<circle cx="218" cy="212" r="106" fill="none" stroke="#f2cc8f" stroke-opacity=".55" stroke-width="1.5" stroke-dasharray="3 6" class="ring"/><circle cx="218" cy="212" r="96" fill="url(#crest)" stroke="#f2cc8f" stroke-opacity=".8" stroke-width="2"/><text x="218" y="258" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="132" fill="#fff">N</text>
+<g class="orbit"><g transform="translate(346.0,212.0) rotate(90)"><path d="M0,-11 C7,-7 7,5 0,11 C-7,5 -7,-7 0,-11 Z" fill="#f6a35b"/></g><g transform="translate(154.0,322.8) rotate(210)"><path d="M0,-9 C9,-9 9,7 0,10 C-9,7 -9,-9 0,-9 Z" fill="#e9724c"/></g><g transform="translate(154.0,101.2) rotate(330)"><path d="M0,-11 C7,-7 7,5 0,11 C-7,5 -7,-7 0,-11 Z" fill="#f2cc8f"/></g></g>
+<text x="218" y="378" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" letter-spacing="10" fill="#f2cc8f">NOMEN</text>
+<text x="218" y="408" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" letter-spacing="2" fill="#b3aed6">@helloyork</text>
+<text x="440" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="3.5" fill="#f2cc8f">CHARACTER PROFILE</text>
+<text x="1150" y="82" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" letter-spacing="3" fill="#8f8bb5">FILE No.001</text>
+<text x="440" y="146" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#fff">Nomen</text>
+<path d="M440,170 H1150" stroke="#f2cc8f" stroke-opacity=".3"/>
+<path d="M440,166 L444,170 L440,174 L436,170 Z" fill="#f2cc8f" opacity="1.0"/>
+<text x="440" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="3.5" fill="#f2cc8f">CLASS</text><text x="440" y="248" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#f4f1ff">Full-Stack Developer</text>
+<text x="820" y="214" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="3.5" fill="#f2cc8f">ALIAS</text><text x="820" y="248" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#f4f1ff">helloyork</text>
+<text x="440" y="292" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="3.5" fill="#f2cc8f">SPECIALTIES</text><text x="440" y="326" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#f4f1ff">Front-end · Node.js Libraries · Serverless</text>
+<text x="440" y="370" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="3.5" fill="#f2cc8f">MAIN QUEST</text><text x="440" y="404" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#f4f1ff">The NarraLeaf Project</text>
+<g transform="translate(588,357)"><rect width="98" height="18" rx="9" fill="#e8799d" fill-opacity=".18" stroke="#e8799d" stroke-opacity=".7"/><circle cx="12" cy="9" r="3.5" fill="#e8799d" class="pulse"/><text x="22" y="13.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="bold" letter-spacing="1.5" fill="#f3a9c2">ONGOING</text></g>
+<text x="820" y="370" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="bold" letter-spacing="3.5" fill="#f2cc8f">SIDE QUEST</text><text x="820" y="404" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#f4f1ff">Learning Rust &amp; Tauri</text>
+<text x="440" y="440" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="bold" letter-spacing="3" fill="#f2cc8f">EXP</text>
+<rect x="486" y="429" width="664" height="12" rx="6" fill="#fff" fill-opacity=".08"/>
+<rect class="exp" x="486" y="429" width="664" height="12" rx="6" fill="url(#bar)"/>
+</svg>
