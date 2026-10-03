@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="124" viewBox="0 0 820 124" role="img" aria-labelledby="title">
+<title id="title">~ $ whoami — nomen · full-stack developer</title>
+<defs><clipPath id="typed"><rect x="52.8" y="0" width="0" height="124">
+<animate attributeName="width" values="0.0;13.2;26.4;39.6;52.8;66.0;79.2" calcMode="discrete" begin="0.8s" dur="0.77s" fill="freeze"/>
+</rect></clipPath></defs>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22">
+<text x="0.0" y="28" textLength="39.6" lengthAdjust="spacing"><tspan fill="#1a7f37">~</tspan><tspan fill="#656d76"> $</tspan></text>
+<text x="52.8" y="28" textLength="79.2" lengthAdjust="spacing" fill="#1f2328" clip-path="url(#typed)">whoami</text>
+<rect x="52.8" y="9" width="13.2" height="26" fill="#1f2328">
+<animate attributeName="x" values="52.8;66.0;79.2;92.4;105.6;118.8;132.0" calcMode="discrete" begin="0.8s" dur="0.77s" fill="freeze"/>
+<set attributeName="visibility" to="hidden" begin="1.91s"/><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect>
+<g visibility="hidden"><set attributeName="visibility" to="visible" begin="1.91s"/>
+<text x="0.0" y="66" textLength="369.6" lengthAdjust="spacing" fill="#1f2328"><tspan font-weight="bold">nomen</tspan><tspan fill="#656d76"> · full-stack developer</tspan></text>
+<text x="0.0" y="104" textLength="39.6" lengthAdjust="spacing"><tspan fill="#1a7f37">~</tspan><tspan fill="#656d76"> $</tspan></text>
+<rect x="52.8" y="85" width="13.2" height="26" fill="#1f2328"><animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/></rect>
+</g>
+</g>
+</svg>
